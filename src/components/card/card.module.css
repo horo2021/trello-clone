@@ -1,0 +1,21 @@
+.ListCard_TaskListWrapper__2NKjK {
+    min-height: 2px;
+  }
+  
+  .ListCard_TaskCardWrapper__3Y0JF {
+    margin: 8px 0;
+  }
+  
+  .TaskCard_MainContainer__249ZY {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgb(9 30 66 / 25%);
+    padding: 6px 8px 2px;
+    cursor: pointer;
+    margin-bottom: 8px;
+  }
+  
+  .TaskCard_MainContainer__249ZY:hover {
+    background-color: #f4f5f7;
+  }
+  

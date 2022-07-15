@@ -1,0 +1,33 @@
+.ListCard_TitleWrapper__1RHAj {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    overflow-y: auto;
+}
+
+.ListCard_Title__2o-Nm {
+    margin: 0;
+    color: #172b4d;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 4px 8px 10px;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}

@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #0079bf;
+}
+
+.card-list-cont {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.single-list {
+  margin-top: 10px;
+}

@@ -1,0 +1,77 @@
+.NewTaskCard_AddMoreWrapper__1H5Zw {
+    display: flex;
+  
+    justify-content: flex-start;
+    align-items: center;
+    color: #5e6c84;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 2px 0;
+    cursor: pointer;
+  }
+  
+  .material-icons {
+    font-family: "Material Icons";
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: "liga";
+    -webkit-font-smoothing: antialiased;
+    cursor: pointer;
+  }
+  
+  .NewTaskCard_AddMoreWrapper__1H5Zw:hover {
+    background-color: rgba(9, 30, 66, 0.0784313725490196);
+    color: #172b4d;
+  }
+  
+  .add-task-input {
+    width: 100%;
+    background-color: #fff;
+    border: 2px solid #0079bf;
+    border-radius: 3px;
+    outline: none;
+    box-sizing: border-box;
+    padding: 8px 12px;
+    margin-bottom: 8px;
+  }
+  
+  .NewTaskCard_ButtonWrapper__hQfoT {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .Button_ButtonWrapper__ufPdL {
+    width: 88px;
+    height: 32px;
+    margin-right: 5px;
+    border: 0;
+    border-radius: 3px;
+    outline: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    color: #fff;
+  
+    background-color: #0079bf;
+    padding: 0 12px;
+  }
+  
+  .Button_ButtonWrapper__ufPdL:hover {
+    background-color: #026aa7;
+  }
+  
+  .Button_Label__2Oqtp {
+    font-size: 14px;
+  }
+  

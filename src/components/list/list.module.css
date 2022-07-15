@@ -1,0 +1,14 @@
+.ListCard_MainContainer__B0-tM {
+    min-width: 272px;
+    width: 250px;
+    height: auto;
+    max-height: calc(100vh - 180px);
+    overflow-y: auto;
+    background-color: #ebecf0;
+    margin: 10px 4px;
+    margin-left: 50px;
+    border-radius: 3px;
+    padding: 10px 8px 8px;
+}
+
+

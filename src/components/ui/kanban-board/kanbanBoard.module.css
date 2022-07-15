@@ -1,0 +1,120 @@
+.BoardPage_TitleWrapper__3sDFs {
+  display: flex;
+  align-items: center;
+  padding: 4px 0 8px;
+  margin-left: 40px;
+  background-color: #0079bf;
+}
+
+.BoardPage_BoardTitle__2KUPN {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 32px;
+  padding: 0 12px;
+  color: #fff;
+  margin: 0;
+}
+.BoardPage_StarWrapper__2C9Gh {
+  width: 32px;
+  height: 32px;
+  color: #fff;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  border-radius: 3px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.BoardPage_StarWrapper__2C9Gh > span {
+  padding: 8px 7px;
+  font-size: 18px;
+}
+
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+  position: relative;
+  top: -5px;
+  left: -3px;
+}
+.BoardPage_StarWrapper__2C9Gh > span:hover {
+  color: #f2d600;
+  transform: scale(1.2);
+}
+
+.BoardPage_Separator__E5myp {
+  width: 1px;
+  height: 16px;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  margin: 8px;
+}
+.Button_ButtonWrapper__ufPdL {
+  width: 32px;
+  height: 32px;
+  background-color: transparent;
+  border: 0;
+  border-radius: 3px;
+  outline: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  color: #fff;
+  /* background-color: hsla(0, 0%, 100%, 0.3); */
+}
+/* .Button_Secondary__3qHRl {
+  width: -webkit-max-content;
+  width: max-content;
+  color: #fff;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  padding: 0 12px;
+} */
+
+.Button_Icon__10bPz {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  top: -1px;
+  padding-right: 8px;
+}
+.Button_Label__2Oqtp {
+  font-size: 14px;
+  color: white;
+}
+
+.Button_Secondary__3qHRl:hover {
+  background-color: hsla(0, 0%, 100%, 0.4);
+}
+
+.UserAvatar_DefaultAvatar__mzpr8 {
+  color: #172b4d;
+  background-color: #dfe1e6;
+  height: 32px;
+  width: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 50%;
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.world-icon-con {
+  display: flex;
+  align-items: center;
+  background-color: hsla(0, 0%, 100%, 0.3);
+  padding: 1px 10px;
+  border-radius: 3px;
+}
+.world-icon-con:hover {
+  background-color: hsla(0, 0%, 100%, 0.4);
+}
